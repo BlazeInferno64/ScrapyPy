@@ -34,7 +34,7 @@ What should be the name of the file: google-scrapping.txt
 
 # LICENSE
 
-`ScrapyPy` is released under the GNU License.
+`ScrapyPy` is released under the GPL-3.0 license.
 
 View the full license terms <a href="https://github.com/BlazeInferno64/ScrapyPy/blob/main/LICENSE">here</a>.
 
